@@ -248,11 +248,11 @@ Gabriel de Jesus - [Meu Portfólio](https://www.gabrieldesenvolvedor.com/) - oi@
 
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
-[https://github.com/devgabrieldejesus/basics-semantic-html](https://github.com/devgabrieldejesus/)
+[https://github.com/devgabrieldejesus/html-semantic](https://github.com/devgabrieldejesus/)
 
 ## 🚀 Contribuição
 
-1. Fork em (<https://github.com/devgabrieldejesus/basics-semantic-html/fork>)
+1. Fork em (<https://github.com/devgabrieldejesus/html-semantic/fork>)
 2. Crie seu branch de conteúdo (`git checkout -b meu-novo-conteudo`)
 3. Faça commit de suas alterações (`git commit -am 'adiconando meu novo conteudo'`)
 4. Empurre para o branch (`git push origin meu-novo-conteudo`)
