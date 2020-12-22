@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/pwNNq14/basic-html-semantic.png" alt="O Básico sobre HTML semântico" border="0">
+  <img src="https://i.ibb.co/vzQ4g4x/basic-html-semantic.png" alt="O Básico sobre HTML semântico" border="0">
 </p>
 
 ## 🚀 Introdução
@@ -237,22 +237,22 @@ E com mais navegadores aceitando **HTML5**, as tags semânticas inevitavelmente 
 
 ## 🗃 Histórico de lançamento
 
-* 1.0
+- 0.1.0
     * Estudando a possibilidade de adicionar novos conteúdos
-* 0.5
+- 0.1.0
     * Trabalho em progresso
 
 ## 📝 Meta
 
-Gabriel de Jesus - [Meu Portfólio](https://www.gabrieldesenvolvedor.com/) - oi@gabrieldesenvolvedor.com
+Gabriel de Jesus - [Meu Portfólio](https://www.gabrieldesenvolvedor.com/) - devgabrieldejesus@gmail.com
 
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
-[https://github.com/devgabrieldejesus/html-semantic](https://github.com/devgabrieldejesus/)
+[https://github.com/gabrieldejesus/html-semantic](https://github.com/gabrieldejesus/)
 
 ## 🚀 Contribuição
 
-1. Fork em (<https://github.com/devgabrieldejesus/html-semantic/fork>)
+1. Fork em (<https://github.com/gabrieldejesus/html-semantic/fork>)
 2. Crie seu branch de conteúdo (`git checkout -b meu-novo-conteudo`)
 3. Faça commit de suas alterações (`git commit -am 'adiconando meu novo conteudo'`)
 4. Empurre para o branch (`git push origin meu-novo-conteudo`)
